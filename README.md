@@ -1,4 +1,4 @@
-# vue-nuxt-node-typescript
+# B2B Translation Portal
 
 ## Frontend
 ### Vue/Nuxt.js framework
